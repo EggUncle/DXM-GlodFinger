@@ -81,7 +81,6 @@ int main()
     printf("base addr is %p \n", baseAddress);
     printf("target addr is %p \n", baseAddress + TARGET_INSTRUCTION_OFFSET);
     unsigned long long targetAddress = baseAddress + TARGET_INSTRUCTION_OFFSET;
-    printf("target addr is %p \n",targetAddress);
     HANDLE hForWriteMem = OpenProcess(PROCESS_ALL_ACCESS, FALSE, targetPid);
     //readMemTest(h2, targetAddress);
     writeNopToTargetMemAddress(hForWriteMem, targetAddress);
