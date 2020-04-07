@@ -8,3 +8,5 @@ DAEMON X MACHINA game cheating by Inexhaustible money
 https://egguncle.github.io/2020/04/06/%E6%9C%BA%E7%94%B2%E6%88%98%E9%AD%94%E9%87%91%E5%B8%81%E6%97%A0%E6%B6%88%E8%80%97%E4%BF%AE%E6%94%B9%E5%99%A8%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/#more
 
 还是多多少少碰到了一点儿问题，没有深究一些问题出现的原因，总的来说还是以实现功能为导向。
+
+还有就是用的时候，需要注意先将商店页面打开，这个游戏的商店有个单独的进程。
